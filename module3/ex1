@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Simple Selectors</title>
+<style>
+
+
+
+</style>
+</head>
+<body>
+
+<h1>Web Development (h1)</h1>
+<h2>Is this not a great course (h2)</h2>
+<p class="highlight">I am Loving it already. Are You?</p>
+<p class="highlight">Yes it is making sense</p>
+<h2>Database Management (h2)</h2>
+<p>Was this not a great course !</p>
+<div>Yes I passed it exellently 
+<span id="mainPoint">Cool Stuff!</span> </div>
+
+</body>
+</html>
